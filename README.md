@@ -23,4 +23,4 @@ Using the **Google Trends API (PyTrends)**, this project visualizes and analyzes
 
 ---
 
-## 📂 Project Structure
+
